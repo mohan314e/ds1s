@@ -1,0 +1,6 @@
+outs:
+- md5: fe7fffd4871ea69c000061a3ed99f926.dir
+  size: 5986095062
+  nfiles: 13682
+  hash: md5
+  path: ds1s
